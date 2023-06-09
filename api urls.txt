@@ -1,0 +1,7 @@
+https://mediastack.com/  (50 requests month)
+https://gnews.io/ (10 articles returned per request)
+https://currentsapi.services/ (600 requests per month)
+https://developer.nytimes.com/
+Sports
+arts
+business
